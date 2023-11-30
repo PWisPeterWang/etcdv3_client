@@ -1,0 +1,3 @@
+[submodule "thirdparty/etcdv3-api-cpp"]
+	path = thirdparty/etcdv3-api-cpp
+	url = https://github.com/PWisPeterWang/etcdv3-api-cpp.git

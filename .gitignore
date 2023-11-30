@@ -1,0 +1,40 @@
+# compile outputs
+*.o
+*.obj
+*.ko
+*.so
+*.a
+*.exe
+*.out
+*.app
+
+# compile intermediate outputs
+*.d
+*.depend
+*.gcno
+*.gcda
+*.stackdump
+
+# Visual Studion Code dirs
+.vscode/
+.vs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# build related
+autom4te.cache/
+build/
+build64_debug/
+build64_release/
+blade-bin/
+
+# binary output
+bin/
+
+# os related
+.cache/
+.DS_Store
+ehthumbs.db
+Thumbs.db
